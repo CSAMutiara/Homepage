@@ -1,2 +1,0 @@
-# Homepage
-Web Applications Homepage
